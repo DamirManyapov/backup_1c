@@ -58,5 +58,5 @@ print(f.read())
 #print (TMP_ZIP)
 
 
-#os.system(f'duck --upload davs://webdav.yandex.ru/ {TMP_ZIP} -u mikrotik@ippd.ru -p Mikrotik@2018 -e overwrite')
-#os.system('duck -ls davs://webdav.yandex.ru/ -u mikrotik@ippd.ru -u Mikrotik@2018')
+#os.system(f'duck --upload davs://webdav.yandex.ru/ {TMP_ZIP} -u mikrotik@ippd.ru -p ******* -e overwrite')
+#os.system('duck -ls davs://webdav.yandex.ru/ -u mikrotik@ippd.ru -u *********')
